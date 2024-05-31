@@ -32,3 +32,7 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+This is just an EXAMPLE of how it looks like....
+The ``kind`` parameter is :
+
+
